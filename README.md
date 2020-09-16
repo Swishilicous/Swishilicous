@@ -3,4 +3,6 @@ Hi, I'm the guy in the screenshot reffered to as "swish" that you saw in the Pow
 
 If you where my friend and your sad to see me go I'll just say that I was already planning on leaving the client mod community, obviously this isn't exactly what I had in mind for my departure but what's done is done. If you want to use my plugins but have a fear of getting your token snatched (which is totally understandable) you have my full permission to maintain and redistribute the plugins that I have made for Powercord. I am also no longer in contact with hellbound, he unfriended me on discord and we went our seperate ways.
 
+Finally, as someone who was in on it. No, your accounts are not comprimised, the code wouldn't have random staff ID's in there for no reason, hellbound was specifically targetting PC staff and did not care about anyone else (he literally said this in DMs). Despite what you may think, his goal was not to steal everyone token but rather just to cause a headache for PC staff as he was pretty pissed at his mute (which I will still stand was unjustified) It's still better safe than sorry to delete his plugins considering most of his offical ones are being maintained now anyway but you can stop worrying that he logged into your accounts and exported all your chat logs.
+
 Bye.
