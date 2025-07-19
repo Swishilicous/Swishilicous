@@ -1,7 +1,3 @@
-hobby coder (soon to be student at uni)
+i used to be active in the discord client mod scene
 
-
-- i used to work on discord client modding until discord killed it
-- now working on discord alt frontend in solid
-
-fav langs: c and js (only because im so fluent in it)
+now i make music and occasionally code random shit
